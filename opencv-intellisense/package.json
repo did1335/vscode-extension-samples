@@ -1,5 +1,6 @@
 {
 	"name": "opencv-intellisense",
+	"publisher":"did1335",
 	"displayName": "OpenCV-intellisense",
 	"description": "OpenCV Intellisense",
 	"version": "0.0.1",
@@ -39,5 +40,10 @@
 		"typescript": "^3.3.1",
 		"tslint": "^5.12.1",
 		"vscode-test": "^1.2.0"
-	}
+	},
+	"repository":{
+		"type": "git",
+		"url": "https://did1335.visualstudio.com/OpenCV/_git/OpenCV"
+	},
+	"license": "(MIT OR Apache-2.0)"
 }

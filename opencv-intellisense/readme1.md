@@ -1,5 +1,4 @@
-# opencv-intellisense README
-## OpenCV Core API Intellisense API
+# OpenCV Core Module
 add();
 CvBox2D
 CvMat
@@ -32,26 +31,3 @@ putText();
 Rect
 RotatedRect
 rectangle();
-
-## Start
-View-->Command Palatte...
-OpenCV Intellisense
-
-## Features
-Support for OpenCV Core in C++
-
-## Requirements
-
-VSCode
-
-## Extension Settings
-
-
-## Known Issues
-
-
-## Release Notes
-
-### 1.0.0
-
-Initial release of OpenCV Intellisense
