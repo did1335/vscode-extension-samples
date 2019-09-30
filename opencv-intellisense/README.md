@@ -50,4 +50,5 @@ VSCode
 
 ### 0.0.1
 
-Initial release of OpenCV Intellisense
+* Initial release of OpenCV Intellisense
+
