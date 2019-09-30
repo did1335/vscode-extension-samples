@@ -52,3 +52,8 @@ VSCode
 
 * Initial release of OpenCV Intellisense
 
+### 0.0.2
+
+* Fixed MarkDown File
+* Add Status Bar Msg
+
